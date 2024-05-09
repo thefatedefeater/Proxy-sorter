@@ -3,18 +3,18 @@ Sorting proxies by location renaming remarks with country flags and codes. This 
 
 # Access Links
 
-All Countires:  [Base64](https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/converted.txt)
+All Countires:  [Base64](https://raw.githubusercontent.com/thefatedefeater/Proxy-sorter/main/submerge/converted.txt)
                 |
-                [UTF-8](https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/converted.txt)
+                [UTF-8](https://raw.githubusercontent.com/thefatedefeater/Proxy-sorter/main/output/converted.txt)
 
-US-only:  [Base64](https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/US.txt)
+US-only:  [Base64](https://raw.githubusercontent.com/thefatedefeater/Proxy-sorter/main/submerge/US.txt)
           |
-          [UTF-8](https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/US.txt)
+          [UTF-8](https://raw.githubusercontent.com/thefatedefeater/Proxy-sorter/main/output/US.txt)
 
-IR-only:  [Base64](https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/IR.txt)
+IR-only:  [Base64](https://raw.githubusercontent.com/thefatedefeater/Proxy-sorter/main/submerge/IR.txt)
           |
-          [UTF-8](https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/IR.txt)
+          [UTF-8](https://raw.githubusercontent.com/thefatedefeater/Proxy-sorter/main/output/IR.txt)
 
 
 ## Stargazers
-[![Stargazers over time](https://starchart.cc/Surfboardv2ray/Proxy-sorter.svg?variant=adaptive)](https://starchart.cc/Surfboardv2ray/Proxy-sorter)
+[![Stargazers over time]()](https://starchart.cc/thefatedefeater/Proxy-sorter)
